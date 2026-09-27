@@ -1,0 +1,5 @@
+- insert:
+    - id: dsh-wsl-power
+      name: dsh-wsl-power
+      config:
+        timeoutMs: 30000
